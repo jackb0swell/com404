@@ -9,4 +9,6 @@ elif (direction == "left"):
     print("I am painting in the left direction!")
 elif (direction == "right"):
     print("I am painting in the right direction!")
+else:
+    print("Not sure what direction that is!")
     
