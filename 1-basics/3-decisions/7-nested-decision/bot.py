@@ -2,7 +2,6 @@ print("What type of cover does the book have?")
 cover_type = input()
     
 if (cover_type == "soft"):
-
     print("Is your soft cover book perfect bound?")
     sb = input()
     
